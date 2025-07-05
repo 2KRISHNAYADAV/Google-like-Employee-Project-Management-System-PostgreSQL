@@ -37,6 +37,38 @@
 > Designed for **enterprise-level scale** and analytics.
 
 ---
+## Relationship   ER
+
+| Relationship                                              | Type        |
+| --------------------------------------------------------- | ----------- |
+| `departments.head_id → employees.employee_id`             | One-to-One  |
+| `employees.dept_id → departments.dept_id`                 | Many-to-One |
+| `employees.salary_id → salaries.salary_id`                | Many-to-One |
+| `employee_projects.employee_id → employees.employee_id`   | Many-to-One |
+| `employee_projects.project_id → projects.project_id`      | Many-to-One |
+| `performance_reviews.employee_id → employees.employee_id` | Many-to-One |
+| `performance_reviews.reviewer_id → employees.employee_id` | Many-to-One |
+| `products.dept_id → departments.dept_id`                  | Many-to-One |
+| `products.product_manager_id → employees.employee_id`     | Many-to-One |
+| `employee_locations.employee_id → employees.employee_id`  | Many-to-One |
+| `employee_locations.location_id → locations.location_id`  | Many-to-One |
+| `tool_usage_logs.employee_id → employees.employee_id`     | Many-to-One |
+| `access_rights.employee_id → employees.employee_id`       | Many-to-One |
+| `audit_logs.employee_id → employees.employee_id`          | Many-to-One |
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## 🧩 ER Diagram
 
