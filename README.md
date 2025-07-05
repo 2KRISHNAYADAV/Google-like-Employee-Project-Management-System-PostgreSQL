@@ -43,7 +43,8 @@
 🖼️ ER diagram available in:
 
 - Visual layout included in documentation
-![ChatGPT Image Jul 5, 2025, 01_18_08 AM](https://github.com/user-attachments/assets/e9382010-8cf2-46de-b3f5-7a92a695d53a)
+![ChatGPT Image Jul 5, 2025, 05_15_15 PM](https://github.com/user-attachments/assets/984ef62a-dff0-4da0-9121-fb4031f0dc10)
+
 
 ---
 
