@@ -58,11 +58,12 @@
 
 
 
+## Complex JOINs example pg-admin4
 
 
 
 
-
+![Screenshot 2025-07-08 130939](https://github.com/user-attachments/assets/c2ba0745-e9a4-4dd1-a3ae-bcdc9f452fc6)
 
 
 
@@ -75,7 +76,7 @@
 🖼️ ER diagram available in:
 
 - Visual layout included in documentation
-![ChatGPT Image Jul 5, 2025, 05_15_15 PM](https://github.com/user-attachments/assets/984ef62a-dff0-4da0-9121-fb4031f0dc10)
+![, 2025, 05_15_15 PM](https://github.com/user-attachments/assets/984ef62a-dff0-4da0-9121-fb4031f0dc10)
 
 
 ---
