@@ -67,6 +67,8 @@
 
 
 
+##  window function example pg-admin4
+![Screenshot 2025-07-08 131452](https://github.com/user-attachments/assets/79d9a244-3200-4ee4-afa2-14144c33f9d5)
 
 
 ---
